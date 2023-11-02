@@ -13,6 +13,7 @@
     #print("number is zero")
 
 #data structures
+
 #list
 #l=["sarmad","malaika","kashaf","sarmad"]
 #print(l)
@@ -20,17 +21,19 @@
 #l.sort()
 #print(l)
 #print(l[0])
+
 #tuple
 #t=("sarmad","malaika")
 #print(t)
 #print(type(t))
 #print(t[0])
+
 #sets
 #s={"sarmad","malaika","kashaf",}
 #print(s)
 #print(type(s))
 
-#list
+#Dictioneries
 #d={"sarmad":424,"malaika":370,"kashaf":379}
 #print(d)
 #print(type(d))
